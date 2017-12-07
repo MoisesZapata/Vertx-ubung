@@ -1,3 +1,8 @@
 http:
     server:
         port:9090
+        name:master
+proxy:
+    server:
+        port:8087
+        
